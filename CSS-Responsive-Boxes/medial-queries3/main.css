@@ -5,13 +5,13 @@ body {
 * {
   display: flexbox;
 }
-.a {
+.A {
   border: 1px solid black;
   text-align: center;
   display: inline-block;
   column-width: 310px;
 }
-.b, .c, .d {
+.B, .C, .d {
   border: 1px solid black;
     text-align: center;
 
